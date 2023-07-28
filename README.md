@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="tachikuma.jpg" alt="Icon" width="100" height="100">
+</div>
+
 # Tachikuma
 Tachikuma: How far can a comprehensive world model encourage interactive intelligent agents to go?
 
