@@ -1,5 +1,5 @@
 # <div style="display: flex; align-items: center;">
-  <img src="icon.png" alt="Icon" width="100" height="100" style="margin-right: 20px;">
+  <img src="tachikuma.jpg" alt="Icon" width="100" height="100" style="margin-right: 20px;">
   <h1>Tachikuma</h1>
 </div>
 
