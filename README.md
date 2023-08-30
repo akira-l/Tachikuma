@@ -8,13 +8,13 @@
 </p>
 
 
-# Introduction to the Tachikuma Project: Roadmap for Humanoid Agents
+## Introduction to the Tachikuma Project: Roadmap for Humanoid Agents
 
 The Tachikuma project is inspired by the fascinating and intricate characters in "Ghost in the Shell", particularly the Tachikoma. Our ambitious objective is to develop humanoid agents. We envision agents that deeply understand human intentions, exhibit sufficient intelligence, and eventually, even reach a state of self-awareness.
 
 To actualize this vision, our research roadmap bifurcates into two primary trajectories:
 
-## 1. Development of Singular Humanoid Agents
+### 1. Development of Singular Humanoid Agents
 
 We categorize the desired capabilities of these agents into three foundational pillars:
 
@@ -29,7 +29,7 @@ While the role of future Large Language Models (LLMs) in addressing this challen
 
 > While I'll be concentrating predominantly on the first pillar, the advancements from the broader research community will be invaluable in enriching the latter two components (e.g., pursuing more powerful large models, embodied AI, or some game agents). 
 
-## 2. Establishment of a Comprehensive World Model for Multi-Agent Community
+### 2. Establishment of a Comprehensive World Model for Multi-Agent Community
 
 This entails:
 
@@ -44,7 +44,7 @@ The humanoid agents in recent works show promising signs of collaboration and co
 I warmly extend an invitation to fellow researchers to embark on this exhilarating journey with us, as we strive to bridge the gap between agents and genuine human. 
 
 
-## Citation
+### Citation
 ```
 @article{liang2023tachikuma,
   title={Tachikuma: Understading Complex Interactions with Multi-Character and Novel Objects by Large Language Models},
