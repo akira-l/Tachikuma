@@ -1,7 +1,7 @@
 <p align="center">
   <a href="#">
 <img src="tachikuma.jpg" alt="Logo" width="130"></a>
-  <h3 align="center"><font color="#966661">Tachikuma</font>:  How far can intelligent agents with comprehensive world model to go?</h3>
+  <h2 align="center"><font color="#966661">Tachikuma</font>:  How far can intelligent agents with comprehensive world model to go?</h2>
   <p align="center">
     <a href='https://arxiv.org/abs/2307.12573'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
   </p>
