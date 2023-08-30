@@ -3,9 +3,7 @@
 <img src="tachikuma.jpg" alt="Logo" width="130"></a>
   <h4 align="center"><font color="#966661">Tachikuma</font>:  How far can intelligent agents with comprehensive world model to go?</h4>
   <p align="center">
-    <a href='https://github.com/shikras/shikra'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-    <a href='http://arxiv.org/abs/2306.15195'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-    <a href='http://demo.zhaozhang.net:7860'><img src='https://img.shields.io/badge/Online-Demo-green'></a>
+    <a href='https://arxiv.org/abs/2307.12573'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
   </p>
 </p>
 
