@@ -43,6 +43,9 @@ The humanoid agents in recent works show promising signs of collaboration and co
 
 I warmly extend an invitation to fellow researchers to embark on this exhilarating journey with us, as we strive to bridge the gap between agents and genuine human. 
 
+## Acknowledgement 
+
+Special thanks to Yujia Gao for data collection.
 
 ### Citation
 ```
